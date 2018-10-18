@@ -22,8 +22,9 @@
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{6E129D09-EF58-461D-BCCC-7455AC7CF6F7}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
-    <RootNamespace>KUNCProgramming</RootNamespace>
+    <RootNamespace>KNUCProgramming</RootNamespace>
     <WindowsTargetPlatformVersion>10.0.16299.0</WindowsTargetPlatformVersion>
+    <ProjectName>KNU C Programming</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
