@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="20181113-1 (A).c">
+    <ClCompile Include="20181120-1 (A).c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="20181113-2 (B).c">
+    <ClCompile Include="20181120-1 (B).c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
