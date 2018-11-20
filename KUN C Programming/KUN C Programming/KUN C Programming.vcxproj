@@ -19,8 +19,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="20181120-1 (A).c" />
-    <ClCompile Include="20181120-1 (B).c" />
+    <ClCompile Include="20181120-2 (A).c" />
+    <ClCompile Include="20181120-2 (B).c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
